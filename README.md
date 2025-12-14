@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋 I’m Muhammad Abu Bakar, a software developer from Pakistan.<br>I enjoy building projects and learning new technologies.</h2>
 
 ###
 
