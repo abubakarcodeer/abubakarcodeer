@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ###
 
-  ![Abu Bakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakarcodeer&show_icons=true&theme=dracula)
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api?username=abubakarcodeer&show_icons=true&theme=dracula" alt="Abu Bakar's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abubakarcodeer&show_icons=true&theme=dracula" alt="Muhammad Abu Bakar's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarcodeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
