@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Web Development Concepts Banner](https://cdn.vectorstock.com/i/500p/07/79/web-development-concepts-blue-banner-vector-44690779.jpg)
+![Web Development Concepts Banner](https://previews.123rf.com/images/ileezhun/ileezhun1404/ileezhun140400024/27570895-web-development-text-in-business-background-banner.jpg)
 
 <h2 align="left">Hi 👋 I’m Muhammad Abu Bakar, a Web developer from Pakistan.<br>I enjoy building projects and learning new technologies.</h2>
 
