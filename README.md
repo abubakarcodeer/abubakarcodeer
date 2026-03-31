@@ -13,11 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Web Development Concepts GIF](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+<h1 align="center">Hi ,I'm Muhammad Abu Bakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h2 align="left">Hi 👋 I’m Muhammad Abu Bakar, a Web developer from Pakistan.<br>I enjoy building projects and learning new technologies.</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0044CC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Mobile+App+Developer;Kotlin+%26+React+Native+Enthusiast;Building+Cool+Web+&+Mobile+Experiences&background=00000000" />
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+- 💻 Frontend Developer with strong experience in JavaScript, React, and modern web technologies.
+- 🚀 Passionate about building responsive, scalable, and user-friendly web applications with clean UI/UX.
+- 🧠 Currently expanding my skillset into backend development using Node.js, Express, and MongoDB, aiming to become a full-stack developer.
+- 📱 Mobile App Developer with experience in Kotlin (native Android) and cross-platform development using React Native.
+- 📚 Always learning new technologies, improving problem-solving skills, and staying up-to-date with industry trends.  
 
 ###
 
+## 📊 GitHub Stats
 <div align="center">
 
  <img src="https://github-readme-stats.vercel.app/api?username=abubakarcodeer&show_icons=true&theme=dracula" alt="Muhammad Abu Bakar's GitHub Stats" height="150" />
@@ -25,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+## 🛠️ Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -69,7 +83,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+## 🌐 Connect with me
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammad-abu-bakar-6492062b8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -81,8 +95,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
 
 ###
