@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0044CC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Mobile+App+Developer;Kotlin+%26+React+Native+Enthusiast;Building+Cool+Web+&+Mobile+Experiences&background=00000000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0044CC&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast:MERN+Stack+Developer;Mobile+App+Developer;Kotlin+%26+React+Native+Enthusiast;Building+Cool+Web+&+Mobile+Experiences&background=00000000" />
   </a>
 </p>
 
@@ -78,6 +78,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
